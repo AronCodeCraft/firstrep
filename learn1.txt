@@ -1,1 +1,2 @@
 First time entering an text in github
+I'm trying to pull this from github to VSC
